@@ -1,29 +1,28 @@
 # Amrita GPT 👋
 
-![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
-![GitHub forks](https://img.shields.io/github/forks/open-webui/open-webui?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/open-webui/open-webui?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/open-webui/open-webui)
-![GitHub language count](https://img.shields.io/github/languages/count/open-webui/open-webui)
-![GitHub top language](https://img.shields.io/github/languages/top/open-webui/open-webui)
-![GitHub last commit](https://img.shields.io/github/last-commit/open-webui/open-webui?color=red)
-[![Discord](https://img.shields.io/badge/Discord-Open_WebUI-blue?logo=discord&logoColor=white)](https://discord.gg/5rJgQTnV4s)
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/tjbck)
+![GitHub stars](https://img.shields.io/github/stars/HirthikBalaji/AmritaGPT?style=social)
+![GitHub forks](https://img.shields.io/github/forks/HirthikBalaji/AmritaGPT?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/HirthikBalaji/AmritaGPT?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/HirthikBalaji/AmritaGPT)
+![GitHub language count](https://img.shields.io/github/languages/count/HirthikBalaji/AmritaGPT)
+![GitHub top language](https://img.shields.io/github/languages/top/HirthikBalaji/AmritaGPT)
+![GitHub last commit](https://img.shields.io/github/last-commit/HirthikBalaji/AmritaGPT?color=red)
+[![X](https://img.shields.io/twitter/follow/AmritaUniversity)](https://twitter.com/AmritaUniversity)
 
 ![Amrita GPT Banner](./banner.png)
 
-**Amrita GPT is an [extensible](https://docs.AmritaGPT.com/features/extensibility/plugin), feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline.** It supports various LLM runners like **Ollama** and **OpenAI-compatible APIs**, with **built-in inference engine** for RAG, making it a **powerful AI deployment solution**.
+**Amrita GPT is an [extensible](https://github.com/HirthikBalaji/AmritaGPTfeatures/extensibility/plugin), feature-rich, and user-friendly self-hosted AI platform designed to operate entirely offline.** It supports various LLM runners like **Ollama** and **OpenAI-compatible APIs**, with **built-in inference engine** for RAG, making it a **powerful AI deployment solution**.
 
-Passionate about open-source AI? [Join our team →](https://careers.AmritaGPT.com/)
+Passionate about open-source AI? [Join our team →](https://github.com/HirthikBalaji/AmritaGPT)
 
 ![Amrita GPT Demo](./demo.png)
 
 > [!TIP]  
-> **Looking for an [Enterprise Plan](https://docs.AmritaGPT.com/enterprise)?** – **[Speak with Our Sales Team Today!](https://docs.AmritaGPT.com/enterprise)**
+> **Looking for an [Enterprise Plan](https://github.com/HirthikBalaji/AmritaGPT)?** – **[Speak with Our Sales Team Today!](https://github.com/HirthikBalaji/AmritaGPT)**
 >
 > Get **enhanced capabilities**, including **custom theming and branding**, **Service Level Agreement (SLA) support**, **Long-Term Support (LTS) versions**, and **more!**
 
-For more information, be sure to check out our [Amrita GPT Documentation](https://docs.AmritaGPT.com/).
+For more information, be sure to check out our [Amrita GPT Documentation](https://github.com/HirthikBalaji/AmritaGPT).
 
 ## Key Features of Amrita GPT ⭐
 
@@ -41,7 +40,7 @@ For more information, be sure to check out our [Amrita GPT Documentation](https:
 
 - 🎤📹 **Hands-Free Voice/Video Call**: Experience seamless communication with integrated hands-free voice and video call features using multiple Speech-to-Text providers (Local Whisper, OpenAI, Deepgram, Azure) and Text-to-Speech engines (Azure, ElevenLabs, OpenAI, Transformers, WebAPI), allowing for dynamic and interactive chat environments.
 
-- 🛠️ **Model Builder**: Easily create Ollama models via the Web UI. Create and add custom characters/agents, customize chat elements, and import models effortlessly through [Amrita GPT Community](https://AmritaGPT.com/) integration.
+- 🛠️ **Model Builder**: Easily create Ollama models via the Web UI. Create and add custom characters/agents, customize chat elements, and import models effortlessly through [Amrita GPT Community](https://github.com/HirthikBalaji/AmritaGPT) integration.
 
 - 🐍 **Native Python Function Calling Tool**: Enhance your LLMs with built-in code editor support in the tools workspace. Bring Your Own Function (BYOF) by simply adding your pure Python functions, enabling seamless integration with LLMs.
 
@@ -73,11 +72,11 @@ For more information, be sure to check out our [Amrita GPT Documentation](https:
 
 - 🌐🌍 **Multilingual Support**: Experience Amrita GPT in your preferred language with our internationalization (i18n) support. Join us in expanding our supported languages! We're actively seeking contributors!
 
-- 🧩 **Pipelines, Amrita GPT Plugin Support**: Seamlessly integrate custom logic and Python libraries into Amrita GPT using [Pipelines Plugin Framework](https://github.com/open-webui/pipelines). Launch your Pipelines instance, set the OpenAI URL to the Pipelines URL, and explore endless possibilities. [Examples](https://github.com/open-webui/pipelines/tree/main/examples) include **Function Calling**, User **Rate Limiting** to control access, **Usage Monitoring** with tools like Langfuse, **Live Translation with LibreTranslate** for multilingual support, **Toxic Message Filtering** and much more.
+- 🧩 **Pipelines, Amrita GPT Plugin Support**: Seamlessly integrate custom logic and Python libraries into Amrita GPT using [Pipelines Plugin Framework](https://github.com/HirthikBalaji/pipelines). Launch your Pipelines instance, set the OpenAI URL to the Pipelines URL, and explore endless possibilities. [Examples](https://github.com/HirthikBalaji/pipelines/tree/main/examples) include **Function Calling**, User **Rate Limiting** to control access, **Usage Monitoring** with tools like Langfuse, **Live Translation with LibreTranslate** for multilingual support, **Toxic Message Filtering** and much more.
 
 - 🌟 **Continuous Updates**: We are committed to improving Amrita GPT with regular updates, fixes, and new features.
 
-Want to learn more about Amrita GPT's features? Check out our [Amrita GPT documentation](https://docs.AmritaGPT.com/features) for a comprehensive overview!
+Want to learn more about Amrita GPT's features? Check out our [Amrita GPT documentation](https://github.com/HirthikBalaji/AmritaGPT) for a comprehensive overview!
 
 ---
 
@@ -85,84 +84,65 @@ We are incredibly grateful for the generous support of our sponsors. Their contr
 
 ## How to Install 🚀
 
-### Installation via Python pip 🐍
-
-Amrita GPT can be installed using pip, the Python package installer. Before proceeding, ensure you're using **Python 3.11** to avoid compatibility issues.
-
-1. **Install Amrita GPT**:
-   Open your terminal and run the following command to install Amrita GPT:
-
-   ```bash
-   pip install open-webui
-   ```
-
-2. **Running Amrita GPT**:
-   After installation, you can start Amrita GPT by executing:
-
-   ```bash
-   open-webui serve
-   ```
-
-This will start the Amrita GPT server, which you can access at [http://localhost:8080](http://localhost:8080)
 
 ### Quick Start with Docker 🐳
 
 > [!NOTE]  
-> Please note that for certain Docker environments, additional configurations might be needed. If you encounter any connection issues, our detailed guide on [Amrita GPT Documentation](https://docs.AmritaGPT.com/) is ready to assist you.
+> Please note that for certain Docker environments, additional configurations might be needed. If you encounter any connection issues, our detailed guide on [Amrita GPT Documentation](https://github.com/HirthikBalaji/AmritaGPT) is ready to assist you.
 
 > [!WARNING]
-> When using Docker to install Amrita GPT, make sure to include the `-v open-webui:/app/backend/data` in your Docker command. This step is crucial as it ensures your database is properly mounted and prevents any loss of data.
+> When using Docker to install Amrita GPT, make sure to include the `-v amrita-gpt:/app/backend/data` in your Docker command. This step is crucial as it ensures your database is properly mounted and prevents any loss of data.
 
 > [!TIP]  
 > If you wish to utilize Amrita GPT with Ollama included or CUDA acceleration, we recommend utilizing our official images tagged with either `:cuda` or `:ollama`. To enable CUDA, you must install the [Nvidia CUDA container toolkit](https://docs.nvidia.com/dgx/nvidia-container-runtime-upgrade/) on your Linux/WSL system.
 
 ### Installation with Default Configuration
 
-- **If Ollama is on your computer**, use this command:
+-   **If Ollama is on your computer**, use this command:
 
-  ```bash
-  docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
-  ```
+    ```bash
+    docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v amrita-gpt:/app/backend/data --name amrita-gpt --restart always ghcr.io/HirthikBalaji/amrita-gpt:main
+    ```
 
-- **If Ollama is on a Different Server**, use this command:
+-   **If Ollama is on a Different Server**, use this command:
 
-  To connect to Ollama on another server, change the `OLLAMA_BASE_URL` to the server's URL:
+    To connect to Ollama on another server, change the `OLLAMA_BASE_URL` to the server's URL:
 
-  ```bash
-  docker run -d -p 3000:8080 -e OLLAMA_BASE_URL=https://example.com -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
-  ```
+    ```bash
+    docker run -d -p 3000:8080 -e OLLAMA_BASE_URL=https://example.com -v amrita-gpt:/app/backend/data --name amrita-gpt --restart always ghcr.io/HirthikBalaji/amrita-gpt:main
+    ```
 
-- **To run Amrita GPT with Nvidia GPU support**, use this command:
+-   **To run Amrita GPT with Nvidia GPU support**, use this command:
 
-  ```bash
-  docker run -d -p 3000:8080 --gpus all --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:cuda
-  ```
+    ```bash
+    docker run -d -p 3000:8080 --gpus all --add-host=host.docker.internal:host-gateway -v amrita-gpt:/app/backend/data --name amrita-gpt --restart always ghcr.io/HirthikBalaji/amrita-gpt:cuda
+    ```
 
 ### Installation for OpenAI API Usage Only
 
-- **If you're only using OpenAI API**, use this command:
+-   **If you're only using OpenAI API**, use this command:
 
-  ```bash
-  docker run -d -p 3000:8080 -e OPENAI_API_KEY=your_secret_key -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
-  ```
+    ```bash
+    docker run -d -p 3000:8080 -e OPENAI_API_KEY=your_secret_key -v amrita-gpt:/app/backend/data --name amrita-gpt --restart always ghcr.io/HirthikBalaji/amrita-gpt:main
+    ```
 
 ### Installing Amrita GPT with Bundled Ollama Support
 
 This installation method uses a single container image that bundles Amrita GPT with Ollama, allowing for a streamlined setup via a single command. Choose the appropriate command based on your hardware setup:
 
-- **With GPU Support**:
-  Utilize GPU resources by running the following command:
+-   **With GPU Support**:
+    Utilize GPU resources by running the following command:
 
-  ```bash
-  docker run -d -p 3000:8080 --gpus=all -v ollama:/root/.ollama -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama
-  ```
+    ```bash
+    docker run -d -p 3000:8080 --gpus=all -v ollama:/root/.ollama -v amrita-gpt:/app/backend/data --name amrita-gpt --restart always ghcr.io/HirthikBalaji/amrita-gpt:ollama
+    ```
 
-- **For CPU Only**:
-  If you're not using a GPU, use this command instead:
+-   **For CPU Only**:
+    If you're not using a GPU, use this command instead:
 
-  ```bash
-  docker run -d -p 3000:8080 -v ollama:/root/.ollama -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:ollama
-  ```
+    ```bash
+    docker run -d -p 3000:8080 -v ollama:/root/.ollama -v amrita-gpt:/app/backend/data --name amrita-gpt --restart always ghcr.io/HirthikBalaji/amrita-gpt:ollama
+    ```
 
 Both commands facilitate a built-in, hassle-free installation of both Amrita GPT and Ollama, ensuring that you can get everything up and running swiftly.
 
@@ -170,13 +150,13 @@ After installation, you can access Amrita GPT at [http://localhost:3000](http://
 
 ### Other Installation Methods
 
-We offer various installation alternatives, including non-Docker native installation methods, Docker Compose, Kustomize, and Helm. Visit our [Amrita GPT Documentation](https://docs.AmritaGPT.com/getting-started/) or join our [Discord community](https://discord.gg/5rJgQTnV4s) for comprehensive guidance.
+We offer various installation alternatives, including non-Docker native installation methods, Docker Compose, Kustomize, and Helm. Visit our [Amrita GPT Documentation](https://github.com/HirthikBalaji/AmritaGPT) or contact us on [X](https://twitter.com/AmritaUniversity) for comprehensive guidance.
 
-Look at the [Local Development Guide](https://docs.AmritaGPT.com/getting-started/development) for instructions on setting up a local development environment.
+Look at the [Local Development Guide](https://github.com/HirthikBalaji/AmritaGPT) for instructions on setting up a local development environment.
 
 ### Troubleshooting
 
-Encountering connection issues? Our [Amrita GPT Documentation](https://docs.AmritaGPT.com/troubleshooting/) has got you covered. For further assistance and to join our vibrant community, visit the [Amrita GPT Discord](https://discord.gg/5rJgQTnV4s).
+Encountering connection issues? Our [Amrita GPT Documentation](https://github.com/HirthikBalaji/AmritaGPTtroubleshooting/) has got you covered. For further assistance and to join our vibrant community, visit the [Amrita GPT X](https://twitter.com/AmritaUniversity).
 
 #### Amrita GPT: Server Connection Error
 
@@ -185,12 +165,12 @@ If you're experiencing connection issues, it’s often due to the WebUI docker c
 **Example Docker Command**:
 
 ```bash
-docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE_URL=http://127.0.0.1:11434 --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+docker run -d --network=host -v amrita-gpt:/app/backend/data -e OLLAMA_BASE_URL=http://127.0.0.1:11434 --name amrita-gpt --restart always ghcr.io/HirthikBalaji/amrita-gpt:main
 ```
 
 ### Keeping Your Docker Installation Up-to-Date
 
-Check our Updating Guide available in our [Amrita GPT Documentation](https://docs.AmritaGPT.com/getting-started/updating).
+Check our Updating Guide available in our [Amrita GPT Documentation](https://github.com/HirthikBalaji/AmritaGPTgetting-started/updating).
 
 ### Using the Dev Branch 🌙
 
@@ -200,7 +180,7 @@ Check our Updating Guide available in our [Amrita GPT Documentation](https://doc
 If you want to try out the latest bleeding-edge features and are okay with occasional instability, you can use the `:dev` tag like this:
 
 ```bash
-docker run -d -p 3000:8080 -v open-webui:/app/backend/data --name open-webui --add-host=host.docker.internal:host-gateway --restart always ghcr.io/open-webui/open-webui:dev
+docker run -d -p 3000:8080 -v amrita-gpt:/app/backend/data --name amrita-gpt --add-host=host.docker.internal:host-gateway --restart always ghcr.io/HirthikBalaji/amrita-gpt:dev
 ```
 
 ### Offline Mode
@@ -213,7 +193,7 @@ export HF_HUB_OFFLINE=1
 
 ## What's Next? 🌟
 
-Discover upcoming features on our roadmap in the [Amrita GPT Documentation](https://docs.AmritaGPT.com/roadmap/).
+Discover upcoming features on our roadmap in the [Amrita GPT Documentation](https://github.com/HirthikBalaji/AmritaGPT/roadmap/).
 
 ## License 📜
 
@@ -221,19 +201,19 @@ This project contains code under multiple licenses. The current codebase include
 
 ## Support 💬
 
-If you have any questions, suggestions, or need assistance, please open an issue or join our
-[Amrita GPT Discord community](https://discord.gg/5rJgQTnV4s) to connect with us! 🤝
+If you have any questions, suggestions, or need assistance, please open an issue or contact us on
+[X](https://twitter.com/AmritaUniversity) to connect with us! 🤝
 
 ## Star History
 
-<a href="https://star-history.com/#open-webui/open-webui&Date">
+<a href="https://star-history.com/#HirthikBalaji/AmritaGPT&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=open-webui/open-webui&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=open-webui/open-webui&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=open-webui/open-webui&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=HirthikBalaji/AmritaGPT&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=HirthikBalaji/AmritaGPT&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HirthikBalaji/AmritaGPT&type=Date" />
   </picture>
 </a>
 
 ---
 
-Created by [Timothy Jaeryang Baek](https://github.com/tjbck) - Let's make Amrita GPT even more amazing together! 💪
+Created by [Hirthik Balaji](https://github.com/HirthikBalaji) - Let's make Amrita GPT even more amazing together! 💪
