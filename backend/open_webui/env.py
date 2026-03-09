@@ -132,9 +132,9 @@ if "cuda_error" in locals():
 
 SRC_LOG_LEVELS = {}  # Legacy variable, do not remove
 
-WEBUI_NAME = os.environ.get("WEBUI_NAME", "Open WebUI")
-# if WEBUI_NAME != "Open WebUI":
-#     WEBUI_NAME += " (Open WebUI)"
+WEBUI_NAME = os.environ.get("WEBUI_NAME", "Amrita GPT")
+# if WEBUI_NAME != "Amrita GPT":
+#     WEBUI_NAME += " (Amrita GPT)"
 WEBUI_NAME="Amrita GPT"
 WEBUI_FAVICON_URL = "https://webfiles.amrita.edu/2026/02/amrita-red-logo-new.svg"
 
@@ -241,24 +241,24 @@ ENABLE_FORWARD_USER_INFO_HEADERS = (
 
 # Header names for user info forwarding (customizable via environment variables)
 FORWARD_USER_INFO_HEADER_USER_NAME = os.environ.get(
-    "FORWARD_USER_INFO_HEADER_USER_NAME", "X-OpenWebUI-User-Name"
+    "FORWARD_USER_INFO_HEADER_USER_NAME", "X-AmritaGPT-User-Name"
 )
 FORWARD_USER_INFO_HEADER_USER_ID = os.environ.get(
-    "FORWARD_USER_INFO_HEADER_USER_ID", "X-OpenWebUI-User-Id"
+    "FORWARD_USER_INFO_HEADER_USER_ID", "X-AmritaGPT-User-Id"
 )
 FORWARD_USER_INFO_HEADER_USER_EMAIL = os.environ.get(
-    "FORWARD_USER_INFO_HEADER_USER_EMAIL", "X-OpenWebUI-User-Email"
+    "FORWARD_USER_INFO_HEADER_USER_EMAIL", "X-AmritaGPT-User-Email"
 )
 FORWARD_USER_INFO_HEADER_USER_ROLE = os.environ.get(
-    "FORWARD_USER_INFO_HEADER_USER_ROLE", "X-OpenWebUI-User-Role"
+    "FORWARD_USER_INFO_HEADER_USER_ROLE", "X-AmritaGPT-User-Role"
 )
 
 # Header name for chat ID forwarding (customizable via environment variable)
 FORWARD_SESSION_INFO_HEADER_MESSAGE_ID = os.environ.get(
-    "FORWARD_SESSION_INFO_HEADER_MESSAGE_ID", "X-OpenWebUI-Message-Id"
+    "FORWARD_SESSION_INFO_HEADER_MESSAGE_ID", "X-AmritaGPT-Message-Id"
 )
 FORWARD_SESSION_INFO_HEADER_CHAT_ID = os.environ.get(
-    "FORWARD_SESSION_INFO_HEADER_CHAT_ID", "X-OpenWebUI-Chat-Id"
+    "FORWARD_SESSION_INFO_HEADER_CHAT_ID", "X-AmritaGPT-Chat-Id"
 )
 
 # Experimental feature, may be removed in future
@@ -607,7 +607,7 @@ OAUTH_SESSION_TOKEN_ENCRYPTION_KEY = os.environ.get(
 OAUTH_MAX_SESSIONS_PER_USER = int(os.environ.get("OAUTH_MAX_SESSIONS_PER_USER", "10"))
 
 # Token Exchange Configuration
-# Allows external apps to exchange OAuth tokens for OpenWebUI tokens
+# Allows external apps to exchange OAuth tokens for AmritaGPT tokens
 ENABLE_OAUTH_TOKEN_EXCHANGE = (
     os.environ.get("ENABLE_OAUTH_TOKEN_EXCHANGE", "False").lower() == "true"
 )
