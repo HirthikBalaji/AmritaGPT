@@ -33,6 +33,9 @@
 /* --app-text-scale is updated via the UI Scale slider (Interface.svelte) */
 :root {
 	--app-text-scale: 1;
+	--primary-color: #A4123F;
+  --secondary-color: #58595B;
+  --background-color: #FDF9F9;
 }
 
 html {
